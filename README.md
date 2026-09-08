@@ -3,7 +3,7 @@
 > **Production-grade RAG platform for constitutional and civic intelligence in Kenya.**  
 > Built end-to-end across AI architecture, backend services, frontend experience, cloud infrastructure, authentication, billing, observability, and security.
 
-[Live Website](https://katiba.ai/) · `AI Engineering` · `RAG` · `Cloud Run` · `FastAPI` · `React` · `Vector Search` · `Keycloak` · `Stripe` · `M-Pesa` · `Lago`
+`AI Engineering` · `RAG` · `Cloud Run` · `FastAPI` · `React` · `Vector Search` · `Keycloak` · `Stripe` · `M-Pesa` · `Lago`
 
 ---
 
