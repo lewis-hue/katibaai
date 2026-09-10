@@ -5,6 +5,8 @@
 
 `AI Engineering` · `RAG` · `Cloud Run` · `FastAPI` · `React` · `Vector Search` · `Keycloak` · `Stripe` · `M-Pesa` · `Lago`
 
+**Architecture:** see **[ARCHITECTURE.md](ARCHITECTURE.md)** for the full system design, RAG data flow, authentication (Keycloak PKCE), billing flow, the Milvus vector schema, and security trust boundaries. The application source is private; this repository is a case study, and a walkthrough is available on request.
+
 ---
 
 ## Overview
